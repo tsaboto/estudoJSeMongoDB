@@ -110,7 +110,7 @@ aula3.click(function(){
     contents.empty();
     contents.append('<h2 class="code-color">Aula 3 - Operadores </h2>');
     contents.append(
-        '<h3>>Operadores</h3>',
+        '<h3>Operadores</h3>',
         '<h4> O mongo é baseado em JavaScrip, vamos falar dos operadores:</h4>', 
         '<h4>Operadores numéricos: </h4>',
         '<ul>',
@@ -165,7 +165,7 @@ aula3.mouseout(function(){
 aula4.click(function(){
     contents.empty();
     contents.append('<h2 class="code-color">Aula 4 - Mongo</h2>');
-    contents.append('<p>conteudo aula 4</p>');
+    contents.append('<h3>Em breve...</h3>');
     // contents.append('<img src="img/thumb-grande.jpg" alt=""/>');
 });
 
